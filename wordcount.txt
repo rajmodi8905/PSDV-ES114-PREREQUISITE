@@ -1,4 +1,0 @@
-Hello world! This is a test file.
-This file is just a test file.
-Test the word counting and word frequency.
-Hello test world!
